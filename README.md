@@ -1,4 +1,6 @@
 # GreenBottle
 Bunch of short code to help out at work or school project
 
-Jeu.zip est un programme créé dans le cadre d'un cours à l'université. Il est modifié et simplifier pour éviter les cas de plagiat.
+Sudoku.zip is a program to play Sudoku inspired by a project for university. It was modified and simplified to avoid plagiarism. 
+
+conference_scraper allows to go through different websites (each website contains a page for each year) and scrape the names of the author that published for the conference and the tile of the publications
